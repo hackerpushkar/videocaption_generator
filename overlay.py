@@ -19,3 +19,7 @@ def overlay_subtitles(video_path, segments, output_path):
 
     final = CompositeVideoClip([video] + clips)
     final.write_videofile(output_path)
+
+
+# for more details checkout this blog because i learn about this module from this 
+# https://codewithtj.blogspot.com/2025/03/how-to-add-text-and-captions-to-your.html
