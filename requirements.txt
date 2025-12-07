@@ -1,0 +1,11 @@
+moviepy
+openai-whisper
+ffmpeg-python
+torch
+
+
+#python version : 3.11.9
+
+# Install ImageMagick for Windows:
+# https://imagemagick.org/script/download.php#windows
+# ImageMagick-6.9.13-34-Q16-HDRI-x64-dll
